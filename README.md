@@ -5,6 +5,6 @@ Usage -
 
 python dt-learn.py train.arff test.arff m
 
-m - Stopping Criteria/Minimum number of nodes required at leaf nodes
+m - Stopping Criteria/Minimum number of examples required at leaf nodes
 
 
